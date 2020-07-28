@@ -2,8 +2,6 @@
 
 It is a simple shopping cart app
 
-Live demo can be found here : http://JidnyasaParab.github.io/shopping-cart
-
 ## Installation Process
 
 In the project directory, you can run:
